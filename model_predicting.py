@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+# Added this
 # --------------
 # Reading train.csv file 
 train_fpath_1 = r'/Users/mac/Desktop/training_set_processed.csv'
